@@ -1,0 +1,28 @@
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\bin\Debug\GK3_KrzyweBeziera.exe.config
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\bin\Debug\GK3_KrzyweBeziera.exe
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\bin\Debug\GK3_KrzyweBeziera.pdb
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\obj\Debug\GK3_Bezier'sCurves.csprojResolveAssemblyReference.cache
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.Form1.resources
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.Properties.Resources.resources
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\obj\Debug\GK3_Bezier'sCurves.csproj.GenerateResource.Cache
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.exe
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.pdb
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera — kopia\GK3_KrzyweBeziera\bin\Debug\GK3_KrzyweBeziera.exe.config
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera — kopia\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.exe
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera — kopia\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.pdb
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera — kopia\GK3_KrzyweBeziera\bin\Debug\GK3_KrzyweBeziera.exe
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera — kopia\GK3_KrzyweBeziera\bin\Debug\GK3_KrzyweBeziera.pdb
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera — kopia\GK3_KrzyweBeziera\obj\Debug\GK3_Bezier'sCurves.csprojResolveAssemblyReference.cache
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera — kopia\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.Form1.resources
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera — kopia\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.Properties.Resources.resources
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GK3_KrzyweBeziera — kopia\GK3_KrzyweBeziera\obj\Debug\GK3_Bezier'sCurves.csproj.GenerateResource.Cache
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\markowiczt\GK3_KrzyweBeziera\bin\Debug\GK3_KrzyweBeziera.exe.config
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\markowiczt\GK3_KrzyweBeziera\bin\Debug\GK3_KrzyweBeziera.exe
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\markowiczt\GK3_KrzyweBeziera\bin\Debug\GK3_KrzyweBeziera.pdb
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\markowiczt\GK3_KrzyweBeziera\obj\Debug\GK3_Bezier'sCurves.csprojAssemblyReference.cache
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\markowiczt\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.Form1.resources
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\markowiczt\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.Properties.Resources.resources
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\markowiczt\GK3_KrzyweBeziera\obj\Debug\GK3_Bezier'sCurves.csproj.GenerateResource.cache
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\markowiczt\GK3_KrzyweBeziera\obj\Debug\GK3_Bezier'sCurves.csproj.CoreCompileInputs.cache
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\markowiczt\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.exe
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\markowiczt\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.pdb

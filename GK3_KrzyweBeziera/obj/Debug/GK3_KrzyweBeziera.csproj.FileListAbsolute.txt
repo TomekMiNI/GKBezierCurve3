@@ -1,0 +1,9 @@
+c:\users\euronet\documents\visual studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\bin\Debug\GK3_KrzyweBeziera.exe.config
+c:\users\euronet\documents\visual studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\bin\Debug\GK3_KrzyweBeziera.exe
+c:\users\euronet\documents\visual studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\bin\Debug\GK3_KrzyweBeziera.pdb
+c:\users\euronet\documents\visual studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.csprojResolveAssemblyReference.cache
+c:\users\euronet\documents\visual studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.Form1.resources
+c:\users\euronet\documents\visual studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.Properties.Resources.resources
+c:\users\euronet\documents\visual studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.csproj.GenerateResource.Cache
+c:\users\euronet\documents\visual studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.exe
+c:\users\euronet\documents\visual studio 2015\Projects\GK3_KrzyweBeziera\GK3_KrzyweBeziera\obj\Debug\GK3_KrzyweBeziera.pdb

@@ -1,0 +1,13 @@
+Projekt nr 3
+Zadanie nr 4
+Celem zadania by³o zaprezentowanie konstrukcji krzywej Beziera oraz transformacji obrotu i przesuwania obrazka.
+Krzywa Beziera:
+- mozliwosc przesuwania wierzcho³kow po kliknieciu na nie i przesuniecie tych punktow - automatyczne generowanie nowej krzywej Beziera.
+Obrót obrazka:
+- animacja moving umo¿liwia ruch obrazka po krzywej,
+- animacja rotation umo¿liwia obrót obrazka na œrodku canvasu.
+W polu rotating mo¿na wybraæ 2 ró¿ne algorytmy obrotów:
+- naive - naiwny,
+- with filtering - z uœrednianiem.
+Po wciœniêciu start, ruch siê rozpoczyna, a po wciœniêciu stop, koñczy.
+Istnieje równie¿ mo¿liwoœæ zmiany obrazka poprzez klikniêcie Change img.
